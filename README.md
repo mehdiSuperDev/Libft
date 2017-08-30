@@ -16,4 +16,4 @@ Makefile : Compile les fichiers .c pr créer une librairie que l'on peut appeler
 <p align="center"><strong>❤️❤️ Tout le projet a été codé avec amour </strong>❤️❤️</p>
 
 </br></br></br>
-<p style="font-size:3px">note : aucune fonction n'a été maltraité durant l'implémentation</p>
+<p style="font-size:3px;">note : aucune fonction n'a été maltraité durant l'implémentation</p>
