@@ -15,5 +15,5 @@ Les fichiers sont rangés ainsi:</br></br>
 
 <p align="center"><strong>❤️❤️ Tout le projet a été codé avec amour </strong>❤️❤️</p>
 
-</br></br></br>
-<p "style=font-size:8px;"><em>note : aucune fonction n'a été maltraité durant l'implémentation</em></p>
+</br></br>
+<p "style=font-size:3px;"><em>note : aucune fonction n'a été maltraité durant l'implémentation</em></p>
