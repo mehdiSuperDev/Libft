@@ -8,9 +8,9 @@ Les fonctions devaient avoir exactement le **même prototype et le même comport
 
 ------
 Les fichiers sont rangés ainsi:</br></br>
-*/source* : tous les fichiers .c</br>
-*/headers* : le header des fichiers .c</br>
-Makefile : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (a compiler dans un repertoir commun *.h/*.c
+***/source*** : tous les fichiers .c</br>
+***/headers*** : le header des fichiers .c</br>
+***Makefile*** : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (a compiler dans un repertoir commun *.h/*.c
 
 
 <p align="center"><strong>❤️❤️ Tout le projet a été codé avec amour </strong>❤️❤️</p>
