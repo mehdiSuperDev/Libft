@@ -12,7 +12,7 @@ Les fichiers sont rangés ainsi:</br></br>
 ***/headers*** : le header des fichiers .c</br>
 ***Makefile*** : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (à compiler dans un repertoire commun avec tous les .c et le .h)
 
-
+</br>
 <p align="center"><strong>❤️❤️ Tout le projet a été codé avec amour </strong>❤️❤️</p>
 
 </br>
