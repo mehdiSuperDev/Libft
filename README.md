@@ -16,7 +16,7 @@ Objectifs:
 Skills:
 
 
-⋅⋅* Algorithmie et intelligence artificielle</br>
+⋅⋅⋅Algorithmie et intelligence artificielle</br>
 ⋅⋅* Rigueur</br>
 ⋅⋅* Programmation imperative</br>
 
