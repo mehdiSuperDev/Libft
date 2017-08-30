@@ -9,6 +9,11 @@ Les fonctions devaient avoir exactement le **même prototype et le même comport
 
 Les fichiers sont rangés ainsi:
 
+
 /source : tous les fichiers .c
+
+
 /headers : le header des fichiers .c
+
+
 Makefile : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (a compiler dans un repertoir commun *.h/*.c
