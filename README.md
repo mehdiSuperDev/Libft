@@ -7,14 +7,13 @@ Premier projet étudiant, ou il nous était demandé de **recoder un ensemble de
 Les fonctions devaient avoir exactement le **même prototype et le même comportement que les originales.**
 
 ------
-</br>
-Les fichiers sont rangés ainsi:</br>
+Les fichiers sont rangés ainsi:</br></br>
 */source* : tous les fichiers .c</br>
 */headers* : le header des fichiers .c</br>
 Makefile : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (a compiler dans un repertoir commun *.h/*.c
 
 
-<p align="center"><strong>❤️❤️ ✸Tout le projet a été codé avec amour </strong>❤️❤️</p>
+<p align="center"><strong>❤️❤️ Tout le projet a été codé avec amour </strong>❤️❤️</p>
 
-</br></br></br></br>
-#### *✸aucune fonction n'a été maltraité durant l'implémentation*
+</br></br></br>
+<p style="font-size:8px">aucune fonction n'a été maltraité durant l'implémentation</p>
