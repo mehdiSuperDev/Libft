@@ -6,25 +6,25 @@ Premier projet étudiant, ou il nous était demandé de **recoder un ensemble de
 
 Les fonctions devaient avoir exactement le **même prototype et le même comportement que les originales.**
 
+
+Objectifs:
+
+
+⋅⋅* Bases du C</br>
+⋅⋅* Libc</br>
+⋅⋅* Generation d'une librairie statique</br>
+Skills:
+
+
+⋅⋅* Algorithmie et intelligence artificielle</br>
+⋅⋅* Rigueur</br>
+⋅⋅* Programmation imperative</br>
+
 ------
 Les fichiers sont rangés ainsi:</br></br>
 ***/source*** : tous les fichiers .c</br>
 ***/headers*** : le header des fichiers .c</br>
 ***Makefile*** : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (à compiler dans un repertoire commun avec tous les .c et le .h)
-
-
-Objectifs:
-
-
-⋅⋅*Bases du C</br>
-⋅⋅*Libc</br>
-⋅⋅*Generation d'une librairie statique</br>
-Skills:
-
-
-⋅⋅*Algorithmie et intelligence artificielle</br>
-⋅⋅*Rigueur</br>
-⋅⋅*Programmation imperative</br>
 
 
 <p align="center"><strong>❤️❤️ Tout le projet a été codé avec amour </strong>❤️❤️</p>
