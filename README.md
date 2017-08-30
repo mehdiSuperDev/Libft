@@ -11,6 +11,7 @@ Les fichiers sont rangés ainsi:</br></br>
 ***/source*** : tous les fichiers .c</br>
 ***/headers*** : le header des fichiers .c</br>
 ***Makefile*** : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (à compiler dans un repertoire commun avec tous les .c et le .h)
+
 ------
 Le projets à 42 sont soumis a un programme automatique impitoyable, et à des étudiants (encore plus cruels 😊), dont voici les commentaires sur ce projet:
 
