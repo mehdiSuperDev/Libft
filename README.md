@@ -10,10 +10,10 @@ Les fonctions devaient avoir exactement le **même prototype et le même comport
 Les fichiers sont rangés ainsi:</br></br>
 ***/source*** : tous les fichiers .c</br>
 ***/headers*** : le header des fichiers .c</br>
-***Makefile*** : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (a compiler dans un repertoir commun *.h/*.c
+***Makefile*** : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (à compiler dans un repertoire commun avec tous les .c et le .h)
 
 
 <p align="center"><strong>❤️❤️ Tout le projet a été codé avec amour </strong>❤️❤️</p>
 
 </br></br></br>
-<p style="font-size:3px;">note : aucune fonction n'a été maltraité durant l'implémentation</p>
+<p "style=font-size:8px;"><em>note : aucune fonction n'a été maltraité durant l'implémentation</em></p>
