@@ -13,6 +13,20 @@ Les fichiers sont rangés ainsi:</br></br>
 ***Makefile*** : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (à compiler dans un repertoire commun avec tous les .c et le .h)
 
 
+Objectifs:
+
+
+⋅⋅*Bases du C</br>
+⋅⋅*Libc</br>
+⋅⋅*Generation d'une librairie statique</br>
+Skills:
+
+
+⋅⋅*Algorithmie et intelligence artificielle</br>
+⋅⋅*Rigueur</br>
+⋅⋅*Programmation imperative</br>
+
+
 <p align="center"><strong>❤️❤️ Tout le projet a été codé avec amour </strong>❤️❤️</p>
 
 </br>
