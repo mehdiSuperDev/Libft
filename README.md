@@ -19,4 +19,4 @@ Les fichiers sont rangés ainsi:
 Makefile : Compile les fichiers .c pr créer une librairie que l'on peut appeler dans d'autres projets (a compiler dans un repertoir commun *.h/*.c
 
 
-<center>❤️❤️ Tout le projet a été codé avec amour ❤️❤️</center>
+<p align="center"><strong>❤️❤️ Tout le projet a été codé avec amour ❤️❤️</strong></p>
